@@ -13,7 +13,7 @@ A responsive landing page for a travel agency, designed with a minimalist aesthe
 - **JavaScript**  
 
 ## Live Demo  
-Check out the live demo [here](index.html). *(Replace `#` with actual demo link)*  
+Check out the live demo [here](https://kokokorodev.github.io/Prestige-Travel/).
 
 ## 📸 Screenshots  
 ![image](https://github.com/user-attachments/assets/91cd36fd-afa5-41a6-93be-b27ef20013d4)
